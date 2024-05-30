@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+#carousal {
+  max-height: 500px;
+}
+img {
+  /* width: 100vw; */
+  /* max-height: 500px; */
+}
